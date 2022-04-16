@@ -7,9 +7,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dgonzalez211&margin-w=28&margin-h=15&theme=nord" />
 </p></a></p>
   
-<br><br><br><br>
+<br>
 
 Hey there, welcome to my profile. I'm a systems engineering student passionate about software development, enthusiastic about programming with Python.
+
+## Technologies
+- Python
+- Java
+- C#
+- Javascript
   
 # :book: Web Projects
 <div align="center">
@@ -18,7 +24,7 @@ Hey there, welcome to my profile. I'm a systems engineering student passionate a
   
 </div>
   
-<br><br><br><br>
+<br>
   
 # :package: Mobile apps projects
 <div align="center">
@@ -27,7 +33,7 @@ Hey there, welcome to my profile. I'm a systems engineering student passionate a
   
 </div>
   
-<br><br><br><br>
+<br>
   
 # :package: Other projects
 <div align="center">
@@ -36,7 +42,7 @@ Hey there, welcome to my profile. I'm a systems engineering student passionate a
  
 </div>
   
-<br><br><br><br>
+<br>
   
 # :zap: Recent activity
 <!--START_SECTION:activity-->
