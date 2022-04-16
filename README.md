@@ -1,16 +1,44 @@
-### Hi there 👋
+# :star: My Stats
+<p align="center"><a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=dgonzalez211&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dgonzalez211&langs_count=4&count_private=true&theme=nord" />
+</a></p>
+<p align="center"><a href`="#">`
+  <img src="https://github-profile-trophy.vercel.app/?username=dgonzalez211&margin-w=28&margin-h=15&theme=nord" />
+</p></a></p>
+  
+<br><br><br><br>
 
-<!--
-**dgonzalez211/dgonzalez211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there, welcome to my profile. I'm a systems engineering student passionate about software development, enthusiastic about programming with Python.
+  
+# :book: Web Projects
+<div align="center">
+  
+- Soon 
+  
+</div>
+  
+<br><br><br><br>
+  
+# :package: Mobile apps projects
+<div align="center">
+  
+- Soon
+  
+</div>
+  
+<br><br><br><br>
+  
+# :package: Other projects
+<div align="center">
+  
+ - Soon
+ 
+</div>
+  
+<br><br><br><br>
+  
+# :zap: Recent activity
+<!--START_SECTION:activity-->
+- Soon
+<!--END_SECTION:activity-->
