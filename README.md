@@ -28,9 +28,17 @@ Hey there, welcome to my profile. I'm a systems engineering student passionate a
 <br>
   
 # :package: Mobile apps projects
-<div align="center">
-  
-- Soon
+<div align="left">
+<table>
+  <tr>
+    <th>Project title</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dgonzalez211/ArtShack"> ArtShack </a> </td>
+    <td>Mobile application made with Flutter</td>
+  </tr>
+</table>
   
 </div>
   
