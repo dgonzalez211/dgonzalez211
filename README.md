@@ -57,3 +57,8 @@ Hey there, welcome to my profile. I'm a systems engineering student passionate a
 <!--START_SECTION:activity-->
 - Soon
 <!--END_SECTION:activity-->
+
+# LinkedIn
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="diego-andres-gonzalez-marrugo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/diego-andres-gonzalez-marrugo?trk=profile-badge">Diego Andres Gonzalez Marrugo</a></div>
+              
